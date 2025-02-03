@@ -1,0 +1,5 @@
+{
+  "id": "${id}",
+  "administratorName": "${administratorName}",
+  "administratorPhone": "${administratorPhone}"
+}
