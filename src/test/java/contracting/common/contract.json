@@ -1,0 +1,22 @@
+{
+  "id": "${id}",
+  "administratorId": "${administratorId}",
+  "patientId": "${patientId}",
+  "type": "${type}",
+  "status": "${status}",
+  "creationDate": "${creationDate}",
+  "startDate": "${startDate}",
+  "completeDate": "${completeDate}",
+  "costValue": ",${costValue}",
+  "deliveryDays": [
+    {
+      "id": "${deliveryDayId}",
+      "contractId": "${contractId}",
+      "street": "${street}",
+      "number": "${number}",
+      "dateTime": "${dateTime}",
+      "longitude": "${longitude}",
+      "latitude": "${latitude}"
+    }
+  ]
+}
